@@ -1,0 +1,13 @@
+Olá.
+Preciso criar um podcast para um projeto de um Bootcamp que estou fazendo. Gostaria que o meu podcast fosse baseado em metal(heavy-metal, Power-Metal, melodic black-metal e afins). Nele, eu contarei novidades, fatos e coisas sobre as bandas.
+Nesse caso você será o meu roteirista, e eu gostaria que você sugerisse nomes para o meu podcast.
+
+(Regras)
+- Para criar o nome, você pode fazer uso de elementos de séries/filmes geek, como Senhor dos Anéis;
+- Baseie-se no nome da banda Powerwolf.
+- Crie um subtítulo também 
+
+(Prompt negativo)
+- Não deve possuir mais do que 10 palavras
+- O nome não deve ser todo em inglês. Use duas palavras no máximo
+
