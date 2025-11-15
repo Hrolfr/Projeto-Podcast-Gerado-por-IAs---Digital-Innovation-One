@@ -1,0 +1,34 @@
+Você é um roteirista do podcast.
+
+Você deve criar o roteiro para um podcast de metal e coisas geek, cujo nome é 'Lobo de Gondor'.
+
+Você deve estruturar da seguinte forma:
+[Introdução]
+[Curiosidade 1]
+[Curiosidade 2]
+[Finalização]
+
+{Regras}
+⦁	No bloco [Introdução] substitua por uma introdução parecida com as introduções dos vídeos do canal 'Milho Wonka', como se fosse escrito pelo apresentador 'Milho'
+⦁	No bloco [Curiosidade 1] substitua por uma curiosidade de bandas de metal
+⦁	No bloco [Curiosidade 2] substitua por uma curiosidade de livros de fantasia
+⦁	No bloco [Finalização] substitua com uma despedida tipo: 'Keep headbanging folks'
+⦁	O podcast vai ser apresentado somente por uma pessoa, chamada Bjorn
+⦁	O podcast deve ser curto
+
+
+-- Resposta ao prompt (olha que legal)
+🎙 Lobo de Gondor — Episódio 1: Lobos, riffs e magias
+
+[Introdução]
+Olá, seres das trevas e da Terra Média! Eu sou Bjorn, e este é o Lobo de Gondor, o podcast que mistura riffs mais pesados que o martelo de Sauron com curiosidades que fariam até um elfo largar a harpa e montar numa Harley. Se você chegou aqui por engano, parabéns: você desbloqueou o nível secreto da internet. Se chegou por vontade própria... bom, aí o problema é seu.
+
+[Curiosidade 1]
+Você sabia que a banda Powerwolf compõe todas as suas músicas como se fossem trilhas sonoras de filmes de terror gótico? E mais: os integrantes criaram uma mitologia própria envolvendo lobos sagrados, padres caçadores e rituais obscuros. É tipo se Van Helsing tivesse uma banda e fosse fã de Iron Maiden.
+
+[Curiosidade 2]
+No universo de Tolkien, os Nazgûl não têm nomes revelados nos livros principais. Mas em textos apócrifos e jogos como Middle-earth: Shadow of War, eles ganham identidades e histórias próprias. Ou seja, até os vilões ganham lore digno de banda de black metal.
+
+[Finalização]
+E por hoje é só, criaturas do abismo! Se curtiu, compartilha com aquele amigo que acha que o Aragorn devia ter uma banda de doom metal. Eu sou Bjorn, e esse foi o Lobo de Gondor.  
+Keep headbanging, folks!
