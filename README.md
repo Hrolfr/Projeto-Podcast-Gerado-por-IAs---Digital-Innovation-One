@@ -22,6 +22,8 @@ O projeto tem o objetivo de gerar um podcast utilizando ferramentas de IA.
 
 - Roteiro gerado via Copilot
 - Audio gerado pela ElevenLabs
-- Copilot Para gerar capas
+- Copilot para gerar capas
 
+
+# Keep headbanging folks! 🤘🤘
 
